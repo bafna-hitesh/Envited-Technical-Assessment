@@ -1,5 +1,5 @@
 import React from "react";
-import Container from "../component/container";
+import Container from "../component/Container";
 import Hero from "../assets/Landing.svg";
 import { Link } from "react-router-dom";
 
